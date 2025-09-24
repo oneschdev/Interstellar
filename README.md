@@ -21,7 +21,7 @@
 - Various Themes
 - Password Protection (Optional)
 - Built-in Tab System
-- Now.gg Support
+- Now.gg Support (limited)
 - Fast Speeds
 - Geforce NOW Support
 
@@ -43,14 +43,14 @@
 You must run these commands on your server:
 
 ```bash
-git clone https://github.com/UseInterstellar/Interstellar
+git clone https://github.com/oneschdev/Interstellar
 cd Interstellar
 ```
 
 #### Ad-Free Deployment
 
 ```bash
-git clone --branch Ad-Free https://github.com/UseInterstellar/Interstellar
+git clone --branch Ad-Free https://github.com/oneschdev/Interstellar
 cd Interstellar
 ```
 
@@ -90,8 +90,8 @@ cd Interstellar
 git pull --force --allow-unrelated-histories # This may overwrite your local changes
 ```
 
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/UseInterstellar/Interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/UseInterstellar/Interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/oneschdev/Interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/oneschdev/Interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 ### Deployment Alternatives
 
@@ -138,4 +138,4 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 
 A huge thanks goes out to all of the people who have contributed to Interstellar.
 
-[![Contributors](https://contrib.rocks/image?repo=UseInterstellar/Interstellar)](https://github.com/UseInterstellar/Interstellar/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=oneschdev/Interstellar)](https://github.com/oneschdev/Interstellar/graphs/contributors)
