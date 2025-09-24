@@ -28,7 +28,7 @@
     "link": "https://store.steampowered.com/",
     "image": "/assets/media/icons/steam.webp",
     "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now.",
+    "say": "Steam website. Use Geforce Now to play games.",
     "partial": true
   },
   {
@@ -54,12 +54,6 @@
     "link": "https://www.temu.com/",
     "image": "/assets/media/icons/temu.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Character AI",
-    "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
-    "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Aptoide",
